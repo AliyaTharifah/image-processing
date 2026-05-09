@@ -1,7 +1,7 @@
-Proyek ini mendemonstrasikan tiga metode pengolahan data populer untuk kompresi dan pengelompokan informasi:
+Proyek ini mendemonstrasikan tiga metode pengolahan data untuk kompresi dan pengelompokan informasi:
 
 # 1. Huffman Encoding (Kompresi Teks)
-Algoritma kompresi data lossless yang bekerja dengan cara memberikan kode biner lebih pendek untuk karakter yang sering muncul, dan kode lebih panjang untuk yang jarang muncul.
+Algoritma kompresi data lossless dengan cara memberikan kode biner lebih pendek untuk karakter yang sering muncul, dan kode lebih panjang untuk yang jarang muncul.
 
 Fokus: Efisiensi penyimpanan berbasis frekuensi karakter.
 
